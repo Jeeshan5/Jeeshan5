@@ -1,18 +1,284 @@
-# 💫 About Me:
-🔭 I’m currently working on building full-stack web applications and exploring new technologies<br><br>👯 I’m looking to collaborate on open-source projects and innovative web development ideas<br><br>🤝 I’m looking for help with improving my system design and backend development skills<br><br>🌱 I’m currently learning Java, Backend Development, System Design, and DevOps<br><br>💬 Ask me about Java, JavaScript, React, Next.js, Node.js, and Git<br><br>⚡ Fun fact: I love turning ideas into projects and learning by building 🚀
+<div align="center">
 
+# ⚡ JEESHAN ⚡
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mojeeshan/) 
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║        jeeshan@github:~$ whoami                              ║
+║                                                              ║
+║        > FULL-STACK DEVELOPER                                ║
+║        > ENGINEERING STUDENT                                 ║
+║        > BUILDER • PROBLEM SOLVER • LEARNER                 ║
+║                                                              ║
+║        jeeshan@github:~$ ./start_adventure.sh                ║
+║        > Adventure started... 🚀                             ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Jeeshan5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Jeeshan5&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jeeshan5&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="./assets/trainer-profile.png" width="100%">
+
+</div>
+
+---
+
+# 🎮 TRAINER PROFILE
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  👤 NAME        : JEESHAN                                   │
+│  🎯 CLASS       : FULL-STACK DEVELOPER                      │
+│  🧠 SPECIALITY  : BUILDING & LEARNING                       │
+│  ⚡ STATUS       : CURRENTLY LEVELING UP                     │
+│  🌍 LOCATION    : EARTH                                     │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 💻 TERMINAL
+
+```text
+┌──(jeeshan㉿github)-[~/developer]
+└─$ cat about-me.txt
+
+🔭 CURRENT QUEST
+   Building full-stack web applications
+   and exploring new technologies.
+
+🌱 CURRENTLY LEARNING
+   Java
+   Backend Development
+   System Design
+   DevOps
+
+👯 LOOKING TO COLLABORATE ON
+   Open-source projects
+   Innovative web development ideas
+
+🤝 LEVELING UP
+   Backend development
+   System design
+   Problem solving
+
+💬 ASK ME ABOUT
+   Java • JavaScript • React • Next.js
+   Node.js • Git
+
+⚡ FUN FACT
+   I love turning ideas into projects
+   and learning by building 🚀
+```
+
+---
+
+# ⚔️ SKILL TREE
+
+```text
+                         ┌──────────────┐
+                         │   JEESHAN    │
+                         └──────┬───────┘
+                                │
+            ┌───────────────────┼───────────────────┐
+            │                   │                   │
+        LANGUAGES            FRONTEND             BACKEND
+            │                   │                   │
+       ┌────┴────┐         ┌────┴─────┐       ┌────┴─────┐
+       │         │         │          │       │          │
+      ☕ Java    ⚡ JS     ⚛ React   ▲ Next   🟢 Node   🚂 Express
+       │         │         │          │       │          │
+       └─────────┴─────────┴──────────┴───────┴──────────┘
+                                │
+                              TOOLS
+                                │
+                ┌───────────────┼───────────────┐
+                │               │               │
+              🐙 Git          🐳 Docker        🎨 Figma
+                │               │               │
+              GitHub          DevOps          Design
+```
+
+---
+
+# 🎒 TECH PARTY
+
+<div align="center">
+
+### ☕ LANGUAGES
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+
+### ⚛️ FRONTEND
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### 🟢 BACKEND
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge\&logo=Puppeteer\&logoColor=black)
+
+### 🗄️ DATABASE
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### 🛠️ TOOLS & DEPLOYMENT
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge\&logo=netlify\&logoColor=00C7B7)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=white)
+
+</div>
+
+---
+
+# 🌱 CURRENTLY LEVELING UP
+
+```text
+☕ JAVA
+████████████████░░░░  80%
+
+⚙️ BACKEND DEVELOPMENT
+██████████████░░░░░░  70%
+
+🏗️ SYSTEM DESIGN
+████████████░░░░░░░░  60%
+
+🚀 DEVOPS
+██████████░░░░░░░░░░  50%
+```
+
+---
+
+# 🏆 QUEST LOG
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                       QUEST LOG                              ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  [✓] Build full-stack applications                           ║
+║  [✓] Learn JavaScript & React                                ║
+║  [✓] Work with Node.js & databases                           ║
+║  [✓] Learn Git & GitHub                                      ║
+║                                                              ║
+║  [>] Improve backend architecture                            ║
+║  [>] Master system design                                    ║
+║  [>] Level up Java                                           ║
+║  [>] Explore DevOps                                          ║
+║  [>] Contribute to open source                               ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# 🚀 PROJECT MODE
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  🎮 BUILD MODE: ON                                          │
+│                                                             │
+│  I learn by building.                                       │
+│                                                             │
+│  Every project → New experience                             │
+│  Every bug     → New lesson                                 │
+│  Every failure → More XP                                    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+> 🚧 More projects are being built...
+
+---
+
+# 📊 TRAINER STATS
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=Jeeshan5&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=Jeeshan5&theme=dark&hide_border=false">
+
+<br>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Jeeshan5&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+
+</div>
+
+---
+
+# 🤝 LOOKING FOR TRAINERS
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║  👥 OPEN-SOURCE COLLABORATORS                                ║
+║  💡 INNOVATIVE PROJECT IDEAS                                 ║
+║  💻 DEVELOPERS WHO LOVE BUILDING                             ║
+║  🚀 PEOPLE WHO WANT TO LEARN & GROW                          ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# 🌐 CONNECT
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mojeeshan/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+# ⚡ FINAL MESSAGE
+
+```text
+┌──(jeeshan㉿github)-[~]
+└─$ ./motivation.sh
+
+> Idea detected...
+> Code written...
+> Bugs found...
+> Bugs fixed...
+> Skill unlocked! 🔓
+
+> KEEP CODING.
+> KEEP LEARNING.
+> KEEP BUILDING. 🚀
+```
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+```text
+jeeshan@github:~$ echo "The adventure continues..."
+The adventure continues... 🚀
+```
+
+</div>
