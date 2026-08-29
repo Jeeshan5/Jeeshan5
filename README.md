@@ -1,3 +1,10 @@
+
+<div align="center">
+
+<img src="./assets/trainer-profile.png" width="100%">
+
+</div>
+
 <div align="center">
 
 # ⚡ JEESHAN ⚡
@@ -19,11 +26,7 @@
 
 </div>
 
-<div align="center">
 
-<img src="./assets/trainer-profile.png" width="100%">
-
-</div>
 
 ---
 
