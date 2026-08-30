@@ -150,48 +150,7 @@
 
 </div>
 
----
 
-# 🌱 CURRENTLY LEVELING UP
-
-```text
-☕ JAVA
-████████████████░░░░  80%
-
-⚙️ BACKEND DEVELOPMENT
-██████████████░░░░░░  70%
-
-🏗️ SYSTEM DESIGN
-████████████░░░░░░░░  60%
-
-🚀 DEVOPS
-██████████░░░░░░░░░░  50%
-```
-
----
-
-# 🏆 QUEST LOG
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                       QUEST LOG                              ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  [✓] Build full-stack applications                           ║
-║  [✓] Learn JavaScript & React                                ║
-║  [✓] Work with Node.js & databases                           ║
-║  [✓] Learn Git & GitHub                                      ║
-║                                                              ║
-║  [>] Improve backend architecture                            ║
-║  [>] Master system design                                    ║
-║  [>] Level up Java                                           ║
-║  [>] Explore DevOps                                          ║
-║  [>] Contribute to open source                               ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
 
 # 🚀 PROJECT MODE
 
@@ -231,18 +190,7 @@
 
 ---
 
-# 🤝 LOOKING FOR TRAINERS
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║  👥 OPEN-SOURCE COLLABORATORS                                ║
-║  💡 INNOVATIVE PROJECT IDEAS                                 ║
-║  💻 DEVELOPERS WHO LOVE BUILDING                             ║
-║  🚀 PEOPLE WHO WANT TO LEARN & GROW                          ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
 
 ---
 
